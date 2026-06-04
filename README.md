@@ -499,23 +499,6 @@ venv/
 * Which countries rank highest by GDP or GDP per capita?
 * What is the percentage growth between two selected years?
 
-## SEO Keywords
-
-Relevant keywords:
-
-* Streamlit economic dashboard
-* Streamlit GDP dashboard
-* World Bank API Python
-* GDP data visualization
-* GDP per capita dashboard
-* inflation adjusted GDP
-* country GDP comparison
-* region economic comparison
-* Pandas data dashboard
-* Python data visualization
-* economic data explorer
-* open data dashboard
-
 ## Repository Topics
 
 ```text
