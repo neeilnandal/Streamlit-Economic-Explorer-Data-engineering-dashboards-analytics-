@@ -132,12 +132,7 @@ streamlit-economic-explorer/
 ├── .gitignore
 ├── data/
 │   └── gdp_data.csv
-└── screenshots/
-    ├── dashboard-overview.png
-    ├── gdp-trend-chart.png
-    ├── region-comparison.png
-    ├── top-n-rankings.png
-    └── filtered-data-download.png
+
 ```
 
 The `data/gdp_data.csv` file is optional if using the World Bank API mode. It is required only for local CSV mode.
