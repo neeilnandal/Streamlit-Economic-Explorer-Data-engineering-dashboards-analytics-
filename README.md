@@ -2,7 +2,7 @@
 Interactive Streamlit dashboard for exploring World Bank GDP indicators with country filters, regional comparison, top-N rankings, growth metrics, and CSV export.
 # Streamlit Economic Explorer
 
-An interactive **Streamlit economic data dashboard** for exploring country-level GDP trends, GDP per capita, inflation-adjusted GDP, regional comparisons, top-N country rankings, and filtered CSV exports using World Bank data.
+An interactive **Streamlit economic data dashboard** for exploring country-level GDP trends, GDP per capita, inflation-adjusted GDP, regional comparisons, top-N country rankings, and filtered CSV exports using World Bank data.  The link for the deployment of the app is https://puwomdwa9smu6qspnbxtot.streamlit.app/
 
 This project turns raw economic indicators into a simple browser-based analytics tool. Users can select countries, regions, metrics, and year ranges, then compare economic patterns through charts, KPI cards, ranking tables, and downloadable datasets.
 
